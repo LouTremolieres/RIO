@@ -1,0 +1,25 @@
+obj_iotlab-a8-m3/softtimer/soft_timer_delay.o: \
+ ../../../platform/iotlab-a8-m3/../../../openlab/lib/softtimer/soft_timer_delay.c \
+ ../../../platform/iotlab-a8-m3/../../../openlab/lib/softtimer/soft_timer_.h \
+ ../../../platform/iotlab-a8-m3/../../../openlab/lib/soft_timer.h \
+ ../../../platform/iotlab-a8-m3/../../../openlab/lib/event.h \
+ ../../../platform/iotlab-a8-m3/../../../openlab/lib/handler.h \
+ ../../../platform/iotlab-a8-m3/../../../openlab/lib/soft_timer_delay.h \
+ ../../../platform/iotlab-a8-m3/../../../openlab/drivers/timer.h \
+ ../../../platform/iotlab-a8-m3/../../../openlab/lib/handler.h \
+ ../../../platform/iotlab-a8-m3/../../../openlab/lib/debug.h \
+ ../../../platform/iotlab-a8-m3/../../../openlab/drivers/nvic.h \
+ ../../../platform/iotlab-a8-m3/../../../openlab/lib/soft_timer.h \
+ ../../../platform/iotlab-a8-m3/../../../openlab/lib/printf.h
+ ../../../platform/iotlab-a8-m3/../../../openlab/lib/softtimer/soft_timer_delay.c :
+ ../../../platform/iotlab-a8-m3/../../../openlab/lib/softtimer/soft_timer_.h :
+ ../../../platform/iotlab-a8-m3/../../../openlab/lib/soft_timer.h :
+ ../../../platform/iotlab-a8-m3/../../../openlab/lib/event.h :
+ ../../../platform/iotlab-a8-m3/../../../openlab/lib/handler.h :
+ ../../../platform/iotlab-a8-m3/../../../openlab/lib/soft_timer_delay.h :
+ ../../../platform/iotlab-a8-m3/../../../openlab/drivers/timer.h :
+ ../../../platform/iotlab-a8-m3/../../../openlab/lib/handler.h :
+ ../../../platform/iotlab-a8-m3/../../../openlab/lib/debug.h :
+ ../../../platform/iotlab-a8-m3/../../../openlab/drivers/nvic.h :
+ ../../../platform/iotlab-a8-m3/../../../openlab/lib/soft_timer.h :
+ ../../../platform/iotlab-a8-m3/../../../openlab/lib/printf.h :
